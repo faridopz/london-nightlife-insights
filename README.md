@@ -1,6 +1,6 @@
-# LONDON_NIGHTLIFE Data Analysis Project
+ LONDON_NIGHTLIFE Data Analysis Project
 
-## 🎯 Project Motivation
+ 🎯 Project Motivation
 
 Inspired by my experiences attending events at iconic East London venues like Shoreditch hall and Phonox, I wanted to explore **how venues can better understand their audiences**.  
 At the heart of every great show is the audience — who they are, how they attend, and what experiences they seek. This project aims to analyze ticket sales and attendance patterns to uncover those stories.  
@@ -53,7 +53,7 @@ This highlights strong age-based genre preferences. Event curators, DJs, or mark
 Insight: 
 Venues like Shoreditch Warehouse and Phonox attract high ticket sales from the 25–44 age group across all genders. The 18–24 segment also shows strong engagement.
 
-💡 Why it matters:**  
+💡 Why it matters: 
 It reveals where each venue's audience is strongest, helping shape targeted campaigns, promotions, or even lineup curation. It also flags opportunities to grow attendance in less represented age groups.
 
 Why This Approach
