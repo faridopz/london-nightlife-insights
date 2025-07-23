@@ -13,10 +13,10 @@ I focused on answering questions such as:
 
 ---
 
-## 📊 Project Summary
+📊 Project Summary
 
 This project explores patterns in ticket purchases, genre preferences, and venue attendance based on demographic factors like age and gender.  
-**Visual insights reveal**:
+Visual insights reveal:
 
 - Consistent purchase behavior across demographics  
 - Strong age-based genre affinities (with Techno and House dominating)  
@@ -26,11 +26,11 @@ These insights can support **more targeted marketing, programming, and event log
 
 ---
 
- 📸 Visual Insight Summaries
+ Visual Insight Summaries
 
 1. Average Tickets per Purchase by Age Group and Gender
 
-🧠 Insight:* 
+Insight: 
 Ticket purchasing behavior is relatively consistent across age and gender groups, averaging just over 2.5 tickets per transaction.
 
 💡 Why it matters:  
@@ -40,10 +40,10 @@ This suggests group size during bookings is stable regardless of demographic. It
 
 2k. Genre Popularity by Age Group
 
-** Insight:**  
+ Insight:  
 Techno and House are significantly more popular among the 25–44 age range, while genres like Disco and Afrobeats see moderate engagement. Almost no engagement is recorded from users under 18 or over 55.
 
-💡 Why it matters:  
+Why it matters:  
 This highlights strong age-based genre preferences. Event curators, DJs, or marketers can tailor lineups and marketing to age-specific tastes, especially promoting Techno to the 25–44 segment.
 
 ---
