@@ -40,7 +40,10 @@ This suggests group size during bookings is stable regardless of demographic. It
 
 2k. Genre Popularity by Age Group
 
- Insight:  
+
+As expected — the 18–34 crowd dominates London’s dance floors, especially for Techno and House. Seeing this data visualized confirmed my own experience at Phonox — which draws a strong 20-something crowd with a love for underground Techno and House nights.
+
+Insight:  
 Techno and House are significantly more popular among the 25–44 age range, while genres like Disco and Afrobeats see moderate engagement. Almost no engagement is recorded from users under 18 or over 55.
 
 Why it matters:  
