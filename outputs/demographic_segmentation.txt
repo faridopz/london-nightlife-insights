@@ -1,0 +1,15 @@
+
+👥 Demographic Segmentation & Persona Building
+
+Top 10 Attendee Personas (by count):
+    Age_Group      Gender       City   Genre  Count
+503     36–45        Male  Stratford  Techno   1235
+509     36–45  Non-Binary    Brixton  Techno   1145
+461     36–45      Female     London  Techno   1125
+539     36–45  Non-Binary  Stratford  Techno   1114
+479     36–45        Male     Camden  Techno   1076
+515     36–45  Non-Binary     Camden  Techno   1041
+485     36–45        Male    Hackney  Techno   1022
+527     36–45  Non-Binary  Islington  Techno   1019
+473     36–45        Male    Brixton  Techno    983
+491     36–45        Male  Islington  Techno    947

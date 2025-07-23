@@ -1,0 +1,101 @@
+Event_ID,Venue,Event_Name,Date,Genre,Tickets_Available
+1001,Phonox,Summer Sessions,2024-08-21,Disco,240
+1002,XOYO,Bassline Carnival,2024-08-08,Disco,152
+1003,The Steel Yard,Summer Sessions,2024-08-22,Garage,316
+1004,Phonox,Summer Sessions,2024-08-02,Techno,219
+1005,The Steel Yard,Summer Sessions,2024-08-17,Garage,201
+1006,The Steel Yard,Afrobeats Live,2024-08-23,Techno,329
+1007,Shoreditch Warehouse,Summer Sessions,2024-08-19,Techno,457
+1008,Shoreditch Warehouse,Electric Nights,2024-08-14,Techno,210
+1009,Shoreditch Warehouse,Summer Sessions,2024-08-31,House,294
+1010,Shoreditch Warehouse,Electric Nights,2024-08-04,Garage,235
+1011,Phonox,Afrobeats Live,2024-08-26,Garage,163
+1012,Dalston Roof Park,Summer Sessions,2024-08-30,Garage,250
+1013,The Steel Yard,Electric Nights,2024-08-27,Garage,198
+1014,Phonox,Summer Sessions,2024-08-23,Disco,216
+1015,Shoreditch Warehouse,Summer Sessions,2024-08-25,Techno,151
+1016,Shoreditch Warehouse,Afrobeats Live,2024-08-13,Disco,286
+1017,Shoreditch Warehouse,Electric Nights,2024-08-06,Techno,443
+1018,Phonox,Garage Revival,2024-08-09,Disco,187
+1019,XOYO,Bassline Carnival,2024-08-18,Afrobeats,294
+1020,The Steel Yard,Bassline Carnival,2024-08-09,Disco,266
+1021,Phonox,Bassline Carnival,2024-08-27,House,261
+1022,Shoreditch Warehouse,Summer Sessions,2024-08-13,Techno,390
+1023,Shoreditch Warehouse,Bassline Carnival,2024-08-29,Disco,355
+1024,Dalston Roof Park,Bassline Carnival,2024-08-13,Drum & Bass,171
+1025,The Steel Yard,Garage Revival,2024-08-08,Drum & Bass,482
+1026,Dalston Roof Park,Garage Revival,2024-08-19,Afrobeats,285
+1027,XOYO,Garage Revival,2024-08-08,Afrobeats,146
+1028,Phonox,Summer Sessions,2024-08-25,Techno,421
+1029,Dalston Roof Park,Garage Revival,2024-08-06,House,297
+1030,The Steel Yard,Afrobeats Live,2024-08-13,Garage,228
+1031,Phonox,Summer Sessions,2024-08-18,Disco,374
+1032,Shoreditch Warehouse,Electric Nights,2024-08-25,House,250
+1033,XOYO,Afrobeats Live,2024-08-14,House,469
+1034,Shoreditch Warehouse,Garage Revival,2024-08-29,Techno,359
+1035,Phonox,Electric Nights,2024-08-30,Disco,359
+1036,XOYO,Bassline Carnival,2024-08-20,Drum & Bass,490
+1037,The Steel Yard,Garage Revival,2024-08-06,House,406
+1038,Dalston Roof Park,Summer Sessions,2024-08-11,House,285
+1039,Shoreditch Warehouse,Bassline Carnival,2024-08-29,House,223
+1040,The Steel Yard,Summer Sessions,2024-08-29,House,474
+1041,Phonox,Garage Revival,2024-08-16,Techno,165
+1042,Dalston Roof Park,Garage Revival,2024-08-22,Techno,235
+1043,The Steel Yard,Afrobeats Live,2024-08-17,Techno,376
+1044,XOYO,Electric Nights,2024-08-25,Afrobeats,443
+1045,Shoreditch Warehouse,Afrobeats Live,2024-08-21,Garage,331
+1046,XOYO,Bassline Carnival,2024-08-04,House,273
+1047,The Steel Yard,Garage Revival,2024-08-01,Techno,401
+1048,Phonox,Summer Sessions,2024-08-08,Disco,423
+1049,XOYO,Summer Sessions,2024-08-02,House,269
+1050,The Steel Yard,Bassline Carnival,2024-08-03,Drum & Bass,442
+1051,XOYO,Garage Revival,2024-08-16,Techno,470
+1052,The Steel Yard,Garage Revival,2024-08-30,Afrobeats,224
+1053,Dalston Roof Park,Afrobeats Live,2024-08-26,Techno,148
+1054,Dalston Roof Park,Electric Nights,2024-08-04,Afrobeats,310
+1055,Phonox,Summer Sessions,2024-08-15,House,306
+1056,Shoreditch Warehouse,Summer Sessions,2024-08-24,Techno,198
+1057,The Steel Yard,Afrobeats Live,2024-08-07,Techno,316
+1058,Shoreditch Warehouse,Afrobeats Live,2024-08-06,Techno,138
+1059,The Steel Yard,Summer Sessions,2024-08-15,House,433
+1060,Phonox,Summer Sessions,2024-08-18,Techno,185
+1061,Dalston Roof Park,Afrobeats Live,2024-08-14,Techno,305
+1062,Phonox,Bassline Carnival,2024-08-29,Afrobeats,101
+1063,Shoreditch Warehouse,Afrobeats Live,2024-08-13,Drum & Bass,316
+1064,The Steel Yard,Afrobeats Live,2024-08-23,Techno,197
+1065,XOYO,Summer Sessions,2024-08-10,Garage,476
+1066,Phonox,Electric Nights,2024-08-18,House,125
+1067,Dalston Roof Park,Garage Revival,2024-08-19,Garage,180
+1068,The Steel Yard,Summer Sessions,2024-08-02,Techno,135
+1069,Phonox,Bassline Carnival,2024-08-20,Afrobeats,161
+1070,The Steel Yard,Bassline Carnival,2024-08-31,Garage,404
+1071,The Steel Yard,Summer Sessions,2024-08-02,Afrobeats,436
+1072,The Steel Yard,Garage Revival,2024-08-19,Drum & Bass,233
+1073,Shoreditch Warehouse,Bassline Carnival,2024-08-07,Drum & Bass,302
+1074,Shoreditch Warehouse,Afrobeats Live,2024-08-05,Drum & Bass,484
+1075,Phonox,Summer Sessions,2024-08-30,Afrobeats,418
+1076,Phonox,Summer Sessions,2024-08-19,Garage,209
+1077,Shoreditch Warehouse,Bassline Carnival,2024-08-17,Drum & Bass,135
+1078,XOYO,Electric Nights,2024-08-29,Drum & Bass,180
+1079,The Steel Yard,Electric Nights,2024-08-15,Garage,434
+1080,Phonox,Garage Revival,2024-08-17,Drum & Bass,439
+1081,XOYO,Electric Nights,2024-08-04,House,154
+1082,The Steel Yard,Bassline Carnival,2024-08-24,Drum & Bass,244
+1083,XOYO,Electric Nights,2024-08-20,Techno,451
+1084,Shoreditch Warehouse,Garage Revival,2024-08-21,Afrobeats,228
+1085,Phonox,Summer Sessions,2024-08-29,Disco,316
+1086,Shoreditch Warehouse,Summer Sessions,2024-08-27,House,270
+1087,XOYO,Electric Nights,2024-08-25,Techno,479
+1088,The Steel Yard,Afrobeats Live,2024-08-15,Garage,104
+1089,Phonox,Bassline Carnival,2024-08-04,Garage,118
+1090,Shoreditch Warehouse,Garage Revival,2024-08-27,Garage,175
+1091,XOYO,Summer Sessions,2024-08-14,Drum & Bass,286
+1092,Phonox,Electric Nights,2024-08-29,Techno,449
+1093,Phonox,Electric Nights,2024-08-08,Garage,308
+1094,XOYO,Bassline Carnival,2024-08-20,Techno,190
+1095,Dalston Roof Park,Summer Sessions,2024-08-29,Techno,477
+1096,Shoreditch Warehouse,Afrobeats Live,2024-08-30,Disco,476
+1097,XOYO,Electric Nights,2024-08-26,Techno,459
+1098,Dalston Roof Park,Summer Sessions,2024-08-04,Afrobeats,213
+1099,Dalston Roof Park,Electric Nights,2024-08-07,Drum & Bass,216
+1100,Phonox,Bassline Carnival,2024-08-08,Afrobeats,268
