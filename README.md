@@ -26,6 +26,33 @@ These insights can support **more targeted marketing, programming, and event log
 
 ---
 
+# Project Visuals
+
+## Average Tickets per Purchase
+![Average Tickets per Purchase](visuals/avg_tickets_per_purchase.png)
+
+## Total Tickets by Demographics
+![Total Tickets by Demographics](visuals/total_tickets_by_demo.png)
+
+## Genre Popularity by Age Group
+![Genre Popularity by Age Group](visuals/genre_popularity_by_agegroup.png)
+
+## Venue Ticket Sales Heatmap
+![Venue Ticket Sales Heatmap](visuals/venue_ticket_sales_heatmap.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  Visual Insight Summaries
 
 1. Average Tickets per Purchase by Age Group and Gender
@@ -96,5 +123,6 @@ LONDON_NIGHTLIFE/
 ├── requirements.txt
 ├── README.md
 └── venv/
+
 
 
